@@ -1,4 +1,4 @@
-![Gino Zega](https://user-images.githubusercontent.com/104650963/173659294-a6568b46-9534-4aaa-835b-95cafdf77817.png)
+![Gino Zega (1)](https://user-images.githubusercontent.com/104650963/173666764-64f1b4ca-fd27-49f7-8dd9-912ec25e335a.png)
 # **👨🏻‍💻Hi, my name is Gino, and I'm a developer.**
 
 I'm currently studying programming and more specifically, web development,
@@ -16,6 +16,15 @@ I'm not going to lie about this, at first, I needed to learn something with valu
 
 Here are a few of the tools that I use!
 
-![git_banner no bg](https://user-images.githubusercontent.com/104650963/173665591-3f41899f-bc79-4c26-b79b-02e88cf5b7f2.png)
+![git_banner-removebg-preview](https://user-images.githubusercontent.com/104650963/173667449-9d6b516a-975c-44e4-b4ba-98add8f72ab5.png)
+
+## **How to Contact me?**
+
+### 📧 ginozega8@outlook.es
+### 📱 +54 3574-415334
+### 💼 My Linkedin: https://www.linkedin.com/in/gino-zega-864ba2232/
+### 📁 My Portfolio Page: xxxx
+
+
 
 
