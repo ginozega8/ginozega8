@@ -23,7 +23,7 @@ Here are a few of the tools that I use!
 ### 📧 ginozega8@outlook.es
 ### 📱 +54 3574-415334
 ### 💼 My Linkedin: https://www.linkedin.com/in/gino-zega-864ba2232/
-### 📁 My Portfolio Page: xxxx
+### 📁 My Portfolio Page: https://ginoscodingportfolio.netlify.app
 
 
 
